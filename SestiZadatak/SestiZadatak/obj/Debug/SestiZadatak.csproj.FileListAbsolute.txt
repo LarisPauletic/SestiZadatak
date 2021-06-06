@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\SestiZadatak\SestiZadatak\bin\Debug\SestiZadatak.exe.config
+C:\Users\Laris\source\repos\SestiZadatak\SestiZadatak\bin\Debug\SestiZadatak.exe
+C:\Users\Laris\source\repos\SestiZadatak\SestiZadatak\bin\Debug\SestiZadatak.pdb
+C:\Users\Laris\source\repos\SestiZadatak\SestiZadatak\obj\Debug\SestiZadatak.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\SestiZadatak\SestiZadatak\obj\Debug\SestiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\SestiZadatak\SestiZadatak\obj\Debug\SestiZadatak.exe
+C:\Users\Laris\source\repos\SestiZadatak\SestiZadatak\obj\Debug\SestiZadatak.pdb
